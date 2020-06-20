@@ -9,6 +9,8 @@ This page is available in dark mode.
 
 https://new-tab.vercel.app
 
+This page is delivered HTML from an edge server near you via Vercel's CDN.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/zenizh/new-tab.
